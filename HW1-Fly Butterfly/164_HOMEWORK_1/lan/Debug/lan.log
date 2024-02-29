@@ -1,0 +1,37 @@
+﻿  lan.cpp
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(66,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(67,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(67,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(81,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(82,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(82,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(90,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(90,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(110,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(110,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(124,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(124,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(138,68): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(138,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(138,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(138,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(143,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(143,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(144,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(144,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(145,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(145,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(154,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(154,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(155,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(155,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(165,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(165,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(166,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(166,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(167,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(167,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(171,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(459,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\sabri\source\repos\164_HOMEWORK_1\lan\lan.cpp(490,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lan.vcxproj -> C:\Users\sabri\source\repos\164_HOMEWORK_1\Debug\lan.exe

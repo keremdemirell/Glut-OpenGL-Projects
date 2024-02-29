@@ -1,0 +1,219 @@
+﻿  DemirelHasanKerem.cpp
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(83,18): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(83,23): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(84,18): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(84,22): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(97,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(98,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(98,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(111,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(112,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(112,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(121,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(121,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(140,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(140,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(156,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(156,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(183,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(183,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(183,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(184,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(184,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(184,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(185,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(185,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(200,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(212,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(225,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(235,64): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(262,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(262,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(262,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(263,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(263,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(263,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(264,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(264,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(264,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(265,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(265,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(265,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(266,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(266,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(266,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(267,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(267,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(267,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(268,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(268,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(268,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(269,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(269,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(269,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(270,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(270,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(270,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(271,103): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(271,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(271,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(272,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(272,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(272,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(273,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(273,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(273,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(274,111): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(274,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(274,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(275,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(275,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(275,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(276,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(276,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(276,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(285,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(286,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(292,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(335,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(335,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(340,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(340,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(341,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(341,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(345,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(345,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(346,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(346,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(350,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(350,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(351,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(351,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(355,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(355,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(356,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(356,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(361,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(361,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(366,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(366,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(367,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(367,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(371,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(371,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(372,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(372,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(376,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(376,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(377,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(377,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(381,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(381,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(382,59): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(382,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(386,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(389,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(389,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(390,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(390,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(391,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(391,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(400,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(400,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(404,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(404,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(405,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(405,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(406,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(406,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(409,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(409,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(421,55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(423,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(424,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(424,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(428,55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(430,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(431,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(431,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(433,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(433,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(435,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(435,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(437,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(437,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(441,55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(443,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(444,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(444,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(446,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(446,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(448,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(448,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(450,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(450,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(454,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(455,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(463,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(465,57): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(465,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(466,71): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(466,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(468,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(468,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(471,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(473,57): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(473,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(474,71): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(474,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(476,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(476,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(478,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(480,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(480,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(483,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(484,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(485,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(485,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(486,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(487,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(487,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(497,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(497,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(498,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(498,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(502,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(502,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(503,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(503,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(507,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(507,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(508,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(508,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(512,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(512,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(513,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(513,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(517,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(517,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(518,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(518,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(522,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(522,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(523,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(523,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(527,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(527,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(528,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(528,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(532,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(532,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(533,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(533,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(574,55): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(761,20): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(774,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(774,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(781,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWORK_III\164\DemirelHasanKerem.cpp(819,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  164.vcxproj -> C:\Users\sabri\source\repos\164_HOMEWORK_III\Debug\164.exe

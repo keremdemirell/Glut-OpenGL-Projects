@@ -1,0 +1,112 @@
+﻿C:\D\CODING\Visual Studio\vs com. 2019\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (164_HOMEWOEK_2.vcxproj, 164_HOMEWOEK_II.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DemirelHasanKerem.cpp
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(112,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(113,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(113,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(126,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(127,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(127,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(156,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(156,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(172,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(172,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(192,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(199,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(200,68): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(200,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(200,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(200,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(214,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(218,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(224,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(231,75): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(231,56): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(231,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(231,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(246,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(255,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(263,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(272,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(281,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(292,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(306,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(320,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(336,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(336,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(338,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(338,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(340,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(340,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(346,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(346,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(348,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(348,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(349,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(350,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(350,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(357,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(362,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(363,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(363,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(364,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(365,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(365,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(366,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(367,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(367,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(374,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(374,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(375,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(375,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(378,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(378,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(379,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(379,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(382,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(382,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(383,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(383,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(393,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(394,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(394,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(395,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(395,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(396,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(396,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(397,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(397,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(398,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(398,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(399,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(399,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(403,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(404,88): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(404,66): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(404,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(404,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(410,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(414,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(415,88): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(415,66): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(415,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(415,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(423,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(425,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(425,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(426,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(426,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(535,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(545,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(606,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(840,47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(842,68): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(855,47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(857,68): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(870,47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(872,68): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(885,47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(887,68): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(900,47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(902,68): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sabri\source\repos\164_HOMEWOEK_II\164_HOMEWOEK_II\DemirelHasanKerem.cpp(1057,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  164_HOMEWOEK_II.vcxproj -> C:\Users\sabri\source\repos\164_HOMEWOEK_II\Debug\164_HOMEWORK_2.exe
